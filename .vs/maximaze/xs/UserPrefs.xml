@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{1645F3B1-4101-A56C-E53C-CD84B3A46807}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Packs/Standard Assets/Utility/ForcedReset.cs">
+    <Files>
+      <File FileName="Assets/Packs/Standard Assets/Vehicles/Car/Scripts/WheelEffects.cs" Line="12" Column="1" />
+      <File FileName="Assets/Packs/Standard Assets/Utility/ForcedReset.cs" Line="6" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="maximaze" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Packs" expanded="True">
+                <Node name="Standard Assets" expanded="True">
+                  <Node name="Utility" expanded="True">
+                    <Node name="ForcedReset.cs" selected="True" />
+                  </Node>
+                  <Node name="Vehicles" expanded="True">
+                    <Node name="Car" expanded="True">
+                      <Node name="Scripts" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4325faac-35e7-47d8-87eb-2290d29bcf1a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
